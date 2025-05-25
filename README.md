@@ -33,7 +33,7 @@ To analyze and visualize key maritime metrics — such as median port time, vess
 
 ## 🧠 Insights Extracted
 
-- > 77% of ports in the UK were efficient in 2022 (turnaround < 3 days)  
+-  77% of ports in the UK were efficient in 2022 (turnaround < 3 days)  
 - Global median port time peaked in 2022 and began improving in 2023  
 - Countries with larger average vessels do not always have faster turnaround times  
 - Japan and the Netherlands lead in max cargo capacity among container ships  
