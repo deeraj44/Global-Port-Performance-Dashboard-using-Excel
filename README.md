@@ -10,18 +10,6 @@ To analyze and visualize key maritime metrics — such as median port time, vess
 
 ---
 
-## 📂 File Structure
-
-| Folder/File | Description |
-|-------------|-------------|
-| `/Excel_Dashboard/` | Contains the final `.xlsx` and exported `.pdf` dashboard |
-| `/Data/` | Raw data from UNCTAD |
-| `/Images/` | Screenshots of the dashboard |
-| `Insights_Summary.md` | 5–7 key findings and takeaways |
-| `README.md` | Project documentation and guide |
-
----
-
 ## 📊 Key Features
 
 - 📅 **Interactive Filtering** by Year and Country using slicers  
@@ -55,8 +43,9 @@ To analyze and visualize key maritime metrics — such as median port time, vess
 ---
 
 ## 📷 Dashboard Preview
+![image](https://github.com/user-attachments/assets/b24f0c88-cddd-4389-b769-6a2c7d47cac0)
 
-![Dashboard Screenshot](Images/dashboard-screenshot.png)
+
 
 ---
 
@@ -64,26 +53,3 @@ To analyze and visualize key maritime metrics — such as median port time, vess
 
 - **UNCTADstat**: [https://unctadstat.unctad.org](https://unctadstat.unctad.org)
   - Maritime Transport > Port Calls and Performance
-
----
-
-## 💡 How to Use
-
-1. Clone/download this repo
-2. Open `UNCTAD_PortEfficiency_Dashboard.xlsx`
-3. Use the slicers to filter by Year and Country
-4. Read insights in the Summary section
-
----
-
-## 👨‍💻 Author
-
-**[Your Name]**  
-Graduate Student in Data Science  
-🔗 [LinkedIn](#) | 🌐 [Portfolio](#)
-
----
-
-## 📄 License
-
-This project is open source under the MIT License.
